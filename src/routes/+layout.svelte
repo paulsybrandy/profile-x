@@ -33,11 +33,11 @@
 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 	<meta name="theme-color" content={config.pwaThemeColor} />
 
-	<!-- Favicon and App Icons (https://realfavicongenerator.net) -->
-	<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png" />
-	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png" />
-	<link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png" />
+	<!-- Favicon and App Icons -->
+	<link rel="icon" type="image/png" sizes="96x96" href="/images/favicons/favicon-96x96.png" />
+	<link rel="icon" type="image/svg+xml" href="/images/favicons/favicon.svg" />
 	<link rel="shortcut icon" href="/images/favicons/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png" />
 
 	<!-- Manifest and PWA options -->
 	<link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color={config.pwaThemeColor} />
