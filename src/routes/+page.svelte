@@ -1,43 +1,36 @@
 <script>
     import * as config from '$src/app.config';
     import DarkModeToggle from '$lib/components/DarkModeToggle';
-
-    // icon svgs
     import XTwitter from '$lib/icons/XTwitter';
     import Github from '$lib/icons/Github';
     import Dribbble from '$lib/icons/Dribbble';
     import Codepen from '$lib/icons/Codepen';
     import BadgeCheck from '$lib/icons/BadgeCheck';
-
-    // work/project list svgs
     import Astronaut from '$lib/icons/Astronaut';
     import ChatTMS from '$lib/icons/ChatTMS.svelte';
     import Death from '$lib/icons/Death';
     import ShortEdits from '$lib/icons/Shortedits';
     import ItBetterInThailand from '$lib/icons/ItBetterInThailand';
-
     import { onMount } from 'svelte';
+    import GithubCard from '$lib/components/GithubCard.svelte'; 
+    import Modal from '$lib/components/Modal.svelte'; 
+    import RedditProfileCard from '$lib/components/RedditCard.svelte'; 
+    import SpotifyProfileCard from '$lib/components/SpotifyProfileCard.svelte';
 
-    // Import the GitHub Card and Modal components
-	import GithubCard from '$lib/components/GithubCard.svelte'; // Path if components are under lib
-    import Modal from '$lib/components/Modal.svelte'; // Same here
-	import RedditProfileCard from '$lib/components/RedditCard.svelte'; // Adjust the path as necessary
-	import SpotifyProfileCard from '$lib/components/SpotifyProfileCard.svelte';
-
-  
     let repos = [];
     let loading = true;
-
-    // State to control modal visibility
     let showModal = false;
-	let myUsername = 'paulsybrandy1980'; // Replace this with your actual Reddit username
+    let myUsername = 'paulsybrandy1980'; // Replace this with your actual Reddit username
+    
+    const openPage = () => {
+        window.open('https://paulsybrandy.com/badges.html', '_blank'); // Set the URL for your badges.
+    };
+
     const toggleModal = () => {
         showModal = !showModal; // Toggle modal visibility
     };
-
     onMount(async () => {
         try {
-            // Fetch the top 10 repositories sorted by stars
             const response = await fetch('https://api.github.com/users/paulsybrandy/repos?sort=stars&per_page=10');
             if (!response.ok) {
                 throw new Error('Network response was not ok');
@@ -50,6 +43,9 @@
                 const commitsData = await commitsResponse.json();
                 repo.commits_count = commitsData.length; // Store commit count
                 repos.push(repo); // Add the repo to the repos array
+                
+                // Initialize details state for each repo
+                detailsState[repo.name] = false; // Set initial state to closed
             }
         } catch (error) {
             console.error('Failed to fetch repositories or commits:', error);
@@ -110,9 +106,22 @@
         opacity: 1; /* Make it visible on hover */
     }
 
+    button {
+        margin: 5px; /* Space between buttons */
+        padding: 10px; /* Button padding */
+        background-color: #007bff; /* Button color */
+        color: white; /* Text color */
+        border: none; /* No border */
+        border-radius: 5px; /* Rounded corners */
+        cursor: pointer; /* Pointer on hover */
+    }
+
+    button:hover {
+        background-color: #0056b3; /* Darker shade on hover */
+    }
+
 </style>
-
-
+      
 <div class="w-full m-auto max-w-[1400px]">
 	<div class="grid grid-cols-12 mx-auto lg:gap-16 xl:gap-20 2xl:gap-24">
 		<div class="top-0 flex flex-col col-span-12 gap-6 p-6 overflow-y-auto lg:h-screen lg:sticky lg:col-span-6 xl:col-span-5 md:gap-8 lg:gap-10 xl:gap-12 2xl:gap-14 md:p-12 lg:p-16 xl:p-20 2xl:p-24 lg:pr-0 xl:pr-0 2xl:pr-0">
@@ -134,9 +143,7 @@
 			</div>
 
 			<div class="px-5 text-xl text-center md:text-left md:text-2xl lg:text-2xl xl:text-2xl md:px-0">
-
-				<p class="mt-[1em]">Welcome to my main profile page!</p>
-			</div>
+		</div>
 			<h1><u>Navigation</u></h1>
 			<nav>
 				<ul>
@@ -148,27 +155,17 @@
 					<li><a href="#section6">Other Profile Links</a></li>
 				</ul>
 			</nav>
-	
-		
+</div>
 
-
-
-
-
-			<div class="flex items-center justify-center gap-10 py-6 mt-auto lg:py-0 md:justify-start">
-				<a class="p-2 -m-2 opacity-100 hover:opacity-60" href="https://github.com/paulsybrandy" target="_blank">
-					<Github class="w-8 h-8" />
-				</a>
-				<a class="p-2 -m-2 opacity-100 hover:opacity-60" href="https://codepen.io/paulsybrandy" target="_blank">
-					<Codepen class="w-8 h-8" />
-				</a>
-				<a href="https://www.devlopea.com/profile/66a5bceb9df6bf1841f46172?tab=posts"><img src="images/devlopea.png"></a>
-				<a href="https://app.daily.dev/paulneocube"><img src="images/daily.dev.png"></a>
-			</div>
-		</div>
 		<div class="col-span-12 p-6 -mt-6 lg:col-span-6 xl:col-span-7 md:p-12 lg:p-16 xl:p-20 2xl:p-24 lg:pl-0 xl:pl-0 2xl:pl-0 md:-mt-12 lg:mt-0">
 		<div class="flex flex-col gap-6 text-base md:text-xl md:gap-6 lg:gap-7 xl:gap-8">
-	
+			<embed src="https://paulsybrandy.com/prosidebar/typing-alt.html" style="width:100%; height: 260px;">
+
+			<button on:click={openPage}>
+				Click here for my Profile Badges.
+			</button>
+
+		  
 			<!-- Header for Coding & Design Links -->
 			<u><h2 id="section1" class="text-xl font-bold">Coding & Design Links</h2></u>
 
@@ -192,7 +189,7 @@
 			
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://gitlab.com/paulsybrandy" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/gitlab2.png" class="glow w-8 h-8" width="40">
+					<img src="/images/gitlab2.png" class="glow w-8 h-8" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">GitLab</h3>
@@ -582,3 +579,4 @@
 	</div>
 	</div>
 	</div>
+
