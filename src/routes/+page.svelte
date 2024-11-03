@@ -567,8 +567,7 @@
 			
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://bento.me/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="ihttps://paulsybrandy.com/mages/bentohub.png" width="35" />
-					<img src="images/bentohub.png" width="35" />
+					<img src="https://paulsybrandy.com/images/bentohub.png" width="35" />
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">BentoHub <span style="font-size: 12px; color: red">NEW</span></h3>
