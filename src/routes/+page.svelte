@@ -189,7 +189,7 @@
 			
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://gitlab.com/paulsybrandy" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="/images/gitlab2.png" class="glow w-8 h-8" width="40">
+					<img src="https://paulsybrandy.com/images/gitlab2.png" class="glow w-8 h-8" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">GitLab</h3>
@@ -199,7 +199,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://app.daily.dev/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/daily-dev.png" width="40">
+					<img src="https://paulsybrandy.com/images/daily-dev.png" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">daily.dev</h3>
@@ -209,7 +209,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://gitbook.paulsybrandy.com" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/TISKBAF.png" width="40">
+					<img src="https://paulsybrandy.com/images/TISKBAF.png" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">TISKBAF (Gitbook)</h3>
@@ -220,7 +220,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://codepen.io/paulsybrandy" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/codepen.png" width="35">
+					<img src="https://paulsybrandy.com/images/codepen.png" width="35">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Codepen</h3>
@@ -230,7 +230,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://stackoverflow.com/users/22722142/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/stackoverflow.webp" width="35">
+					<img src="https://paulsybrandy.com/images/stackoverflow.webp" width="35">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Stack Overflow</h3>
@@ -240,7 +240,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://www.devlopea.com/profile/66a5bceb9df6bf1841f46172" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/devlopea.avif" width="40">
+					<img src="https://paulsybrandy.com/images/devlopea.avif" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Devlopea</h3>
@@ -250,7 +250,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://cara.app/paulneocube/all" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/cara.png" width="35">
+					<img src="https://paulsybrandy.com/images/cara.png" width="35">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Cara <span style="font-size: 12px; color: red">NEW</span></h3>
@@ -260,7 +260,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://www.deviantart.com/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/deviantart.webp" width="40">
+					<img src="https://paulsybrandy.com/images/deviantart.webp" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">DeviantArt</h3>
@@ -270,7 +270,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://www.figma.com/@7bd70e92_3cac_4" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/figma.webp" width="40">
+					<img src="https://paulsybrandy.com/images/figma.webp" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Figma <span style="font-size: 12px; color: red">NEW</span></h3>
@@ -280,7 +280,7 @@
 			
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://www.codechef.com/users/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/codechef.png" width="40">
+					<img src="https://paulsybrandy.com/images/codechef.png" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">CodeChef <span style="font-size: 12px; color: red">NEW</span></h3>
@@ -292,7 +292,7 @@
 			<u><h2 id="section2" class="text-xl font-bold">Social Links</h2></u>
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://linkedin.com/in/paulgsybrandy" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/linkedin.png" width="40">
+					<img src="https://paulsybrandy.com/images/linkedin.png" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">LinkedIn</h3>
@@ -302,7 +302,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://www.reddit.com/user/Paulsybrandy1980/" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/reddit.webp" width="45">
+					<img src="https://paulsybrandy.com/images/reddit.webp" width="45">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Reddit</h3>
@@ -313,7 +313,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://clubsall.com/u/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/clubsall.png" width="35">
+					<img src="https://paulsybrandy.com/images/clubsall.png" width="35">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">ClubsAll <span style="font-size: 12px; color: red">NEW</span></h3>
@@ -323,7 +323,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://scribe.disroot.org/u/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/d-scribe.png" width="40">
+					<img src="https://paulsybrandy.com/images/d-scribe.png" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">D-scribe</h3>
@@ -333,7 +333,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://theres.life/@paulsybrandy" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/thereslife.png" width="40">
+					<img src="https://paulsybrandy.com/images/thereslife.png" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">There's Life</h3>
@@ -343,7 +343,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://fe.disroot.org/@paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/fedisroot.png" width="40">
+					<img src="https://paulsybrandy.com/images/fedisroot.png" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">FEDIsroot</h3>
@@ -353,7 +353,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://bsky.app/profile/paulneocube.bsky.social" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/bluesky.png" width="40">
+					<img src="https://paulsybrandy.com/images/bluesky.png" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Bluesky</h3>
@@ -363,7 +363,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://iris.to/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/iris.png" width="40">
+					<img src="https://paulsybrandy.com/images/iris.png" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Nostr - Iris.to</h3>
@@ -376,7 +376,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://t.me/PGSneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/telegram.webp" width="40">
+					<img src="https://paulsybrandy.com/images/telegram.webp" width="40">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Telegram</h3>
@@ -386,7 +386,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://web.groupme.com/contact/105795312/4YtQ8knY" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/groupme.webp" width="50">
+					<img src="https://paulsybrandy.com/images/groupme.webp" width="50">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">GroupMe</h3>
@@ -396,7 +396,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://threema.id/947DNXAS" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/threema.png" width="45">
+					<img src="https://paulsybrandy.com/images/threema.png" width="45">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Threema</h3>
@@ -406,7 +406,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://signal.group/#CjQKILNfRX7qULQ-h0_2ZVbmqZ7w3E-46PdnDkoZU6upfT1rEhBiCoPPPXwjLJECNt-tdM5M" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/signal.png" width="45">
+					<img src="https://paulsybrandy.com/images/signal.png" width="45">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Signal</h3>
@@ -416,7 +416,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://discord.com/users/1080950833950244936" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/discord.png" width="45">
+					<img src="https://paulsybrandy.com/images/discord.png" width="45">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Discord</h3>
@@ -430,7 +430,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://www.last.fm/user/paul-neocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/last-fm.png" width="45">
+					<img src="https://paulsybrandy.com/images/last-fm.png" width="45">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">last.fm</h3>
@@ -440,7 +440,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://libre.fm/user/paul-neocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/libre-fm.png" width="45">
+					<img src="https://paulsybrandy.com/images/libre-fm.png" width="45">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">libre.fm</h3>
@@ -450,7 +450,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://music.amazon.com/profiles/phnpxgxn7okks33zkqvdbkzifm?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_XJQ96kOC30gokb2Y8VD4vtr9q" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/amazon-music.png" width="45">
+					<img src="https://paulsybrandy.com/images/amazon-music.png" width="45">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Amazon Music</h3>
@@ -460,7 +460,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://open.spotify.com/user/tqpgy94he93ysjrpl29jutt6z?si=0667c8adae44481b&nd=1&dlsi=824e49685fe84309" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/spotify.png" width="45">
+					<img src="https://paulsybrandy.com/images/spotify.png" width="45">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Spotify</h3>
@@ -473,7 +473,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://www.goodreads.com/author/show/20517079.Paul_Sybrandy" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/goodreads.png" width="45">
+					<img src="https://paulsybrandy.com/images/goodreads.png" width="45">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Goodreads  - Author Profile</h3>
@@ -483,7 +483,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://www.librarything.com/author/sybrandypaul" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/librarything.png" width="45">
+					<img src="https://paulsybrandy.com/images/librarything.png" width="45">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">LibraryThing  - Author Profile</h3>
@@ -493,7 +493,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://www.librarything.com/profile/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/librarything.png" width="45">
+					<img src="https://paulsybrandy.com/images/librarything.png" width="45">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">LibraryThing  - Member Profile</h3>
@@ -503,7 +503,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://www.librarycat.org/lib/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/librarycat.png" width="45">
+					<img src="https://paulsybrandy.com/images/librarycat.png" width="45">
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">TinyCat - My Book Library</h3>
@@ -514,7 +514,7 @@
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex flex-col gap-2" href="https://paulneocube.notion.site/My-Calibre-Book-Library-5b08c6cfdeab47738123713e51a575ba#95b3847cc6394aeaa7297862aee7b440" target="_blank">
 				<!-- Change the "div" containing the image to occupy the full width -->
 				<div class="w-full h-full rounded-[15px] shrink-0 flex items-center justify-center overflow-hidden bg-light dark:bg-dark">
-					<img src="images/calibre-banner.png" alt="TinyCat - My Book Library" class="w-full h-auto" /> <!-- Ensures the image takes up full width -->
+					<img src="https://paulsybrandy.com/images/calibre-banner.png" alt="TinyCat - My Book Library" class="w-full h-auto" /> <!-- Ensures the image takes up full width -->
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">My Calibre Book Library - Notion database</h3>
@@ -527,7 +527,7 @@
 		<u><h2 id="section6" class="text-xl font-bold">Other Profile Links</h2></u>
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://read.cv/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/read.cv.png" width="35" />
+					<img src="https://paulsybrandy.com/images/read.cv.png" width="35" />
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">read.cv</h3>
@@ -537,7 +537,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://tiles.bio/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/tiles.png" width="35" />
+					<img src="https://paulsybrandy.com/images/tiles.png" width="35" />
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Tiles <span style="font-size: 12px; color: red">NEW</span></h3>
@@ -547,7 +547,7 @@
 
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://hackerpulse.io/hacker/*paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/hackerpulse2.png" width="35" />
+					<img src="https://paulsybrandy.com/images/hackerpulse2.png" width="35" />
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">Hacker//Pulse</h3>
@@ -557,7 +557,7 @@
 			
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://www.polywork.com/paul_sybrandy" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
-					<img src="images/pollywork.png" width="45" />
+					<img src="https://paulsybrandy.com/images/pollywork.png" width="45" />
 				</div>
 				<div class="flex flex-col">
 					<h3 class="font-bold">PollyWork</h3>
@@ -567,6 +567,7 @@
 			
 			<a class="rounded-[20px] md:rounded-[25px] p-5 md:p-6 bg-dark/5 hover:bg-dark/10 dark:bg-light/5 dark:hover:bg-light/10 flex items-center gap-[1.5em]" href="https://bento.me/paulneocube" target="_blank">
 				<div class="w-[80px] md:w-[90px] md:h-[90px] md:rounded-[18px] h-[80px] rounded-[15px] shrink-0 flex items-center justify-center bg-light dark:bg-dark">
+					<img src="ihttps://paulsybrandy.com/mages/bentohub.png" width="35" />
 					<img src="images/bentohub.png" width="35" />
 				</div>
 				<div class="flex flex-col">
