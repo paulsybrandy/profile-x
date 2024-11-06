@@ -120,6 +120,12 @@
         background-color: #0056b3; /* Darker shade on hover */
     }
 
+	.centered-heading {
+        text-align: center;  /* Center the text */
+        font-size: 3rem;     /* Adjust the size */
+        color: #333;         /* Set the text color */
+    }
+
 </style>
       
 <div class="w-full m-auto max-w-[1400px]">
@@ -147,6 +153,7 @@
 			<h1><u>Navigation</u></h1>
 			<nav>
 				<ul>
+					<li><a href="#section0">What am I listening to?</a></li>
 					<li><a href="#section1">Coding & Design Links</a></li>
 					<li><a href="#section2">Social Links</a></li>
 					<li><a href="#section3">Chat Links</a></li>
@@ -160,6 +167,14 @@
 		<div class="col-span-12 p-6 -mt-6 lg:col-span-6 xl:col-span-7 md:p-12 lg:p-16 xl:p-20 2xl:p-24 lg:pl-0 xl:pl-0 2xl:pl-0 md:-mt-12 lg:mt-0">
 		<div class="flex flex-col gap-6 text-base md:text-xl md:gap-6 lg:gap-7 xl:gap-8">
 			<embed src="https://paulsybrandy.com/prosidebar/typing-alt.html" style="width:100%; height: 260px;">
+
+				<u><h2 id="section0" class="text-xl font-bold">What am I listening to?</h2></u>
+				<a href="https://descent.live/paul-neocube" target="_blank"><span style="font-size: 12px; color: green">Click here to make the music info panel larger.</span></a>
+				<div class="col-span-12 py-2 -mt-2 lg:col-span-6 xl:col-span-7 md:py-4 lg:py-5 xl:py-6 2xl:py-8 lg:pl-0 xl:pl-0 2xl:pl-0 md:-mt-4 lg:mt-0">
+					<div class="flex flex-col gap-4 text-base md:text-lg md:gap-4 lg:gap-5 xl:gap-6">
+					<a href="https://descent.live/paul-neocube" target="_blank"><embed src="https://descent.live/paul-neocube" style="width:100%; height: 550px;"></a> 
+</div>
+</div>			
 
 			<button on:click={openPage}>
 				Click here for my Profile Badges.
